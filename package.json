@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegoxter/quasarswap-sdk.git"
+    "url": "git+https://github.com/DevWho-SNT/QuasarSwap-SDK.git"
   },
   "keywords": [
     "quasarswap",
@@ -60,11 +60,11 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/diegoxter/quasarswap-sdk/issues"
+    "url": "https://github.com/DevWho-SNT/QuasarSwap-SDK/issues"
   },
-  "homepage": "https://github.com/diegoxter/quasarswap-sdk#readme",
+  "homepage": "https://github.com/DevWho-SNT/QuasarSwap-SDK#readme",
   "directories": {
     "test": "test"
   },
-  "author": "Quasar Team <fantiejiego@gmail.com> (quasarswap.finance)"
+  "author": "Quasar Team <quasarswap.snt@gmail.com> (quasarswap)"
 }
